@@ -75,6 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📫 Contact
 
-For inquiries, please reach out to [Your Name](mailto:stalukdar.2003@gmail.com) or create an issue in the repository.
+For inquiries, please reach out to [Me(Sandeep Talukdar)](mailto:stalukdar.2003@gmail.com) or create an issue in the repository.
 
 Happy coding and good luck with your data science journey! 🎊
